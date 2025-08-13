@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "SQL_project",
+			"path": "../SQL_project"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"askForPassword": true,
+				"driver": "PostgreSQL",
+				"name": "postgres",
+				"username": "postgres",
+				"database": "contoso_100k"
+			}
+		]
+	}
+}
